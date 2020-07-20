@@ -1,0 +1,5 @@
+Ross Mason and Dave Rosenberg founded MuleSource in 2006. The "mule" in the name comes from the drudgery, or "donkey work," of data integration that the platform was created to escape.[6] The company changed the name to MuleSoft in 2009.
+
+The company originally provided middleware and messaging, and later expanded to provide an integration platform as a service (iPaaS) approach for companies through its main product, Anypoint Platform.[7][8]
+
+In April 2013, the startup announced $37 million in Series E financing in a round led by New Enterprise Associates, with participation from new strategic investor Salesforce.com, and existing investors Hummer Winblad Venture Partners, Morgenthaler Ventures, Lightspeed Venture Partners, Meritech Capital Partners, Sapphire Ventures (formerly SAP Ventures) and Bay Partners. The round brought MuleSoft's total financing, over the course of seven funding rounds, to $259 million.[
